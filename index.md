@@ -6,7 +6,7 @@ This is my home page! My name is Tom Nguyen I am a student at [Cal State Fullert
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/TomNguyens.
+My GitHub page is https://tomnguyens.github.io/.
 
 ### CPSC 120
 
